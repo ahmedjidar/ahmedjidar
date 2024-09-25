@@ -31,5 +31,5 @@
 <hr>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,react,nextjs,tailwind,java,spring,mysql,mongodb" alt="Skill Icons" style="width: 95%;" />
+ <img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,react,nextjs,tailwind,java,spring,c,cpp,mysql,mongodb" alt="Skill Icons" style="width: 95%;" />
 </p>
