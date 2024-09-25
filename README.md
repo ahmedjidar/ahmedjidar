@@ -1,7 +1,7 @@
 ## Discover Me
 The focus extends beyond mere code writing—it's about constantly questioning how things can work better. I approach every challenge with a mindset of discovery and improvement, always seeking the "why" behind the solution.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedjidar)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedjidar&theme=rising-sun)](https://git.io/streak-stats)
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
