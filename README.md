@@ -1,6 +1,6 @@
-## ```ฅᨐฅ``` Exploring Innovation & Beyond
+## ```ฅᨐฅ``` Gotcha!
 
-.𖥔 ݁ ˖ No commits, only deployments
+No commits, only deployments
 
 <hr>
 
